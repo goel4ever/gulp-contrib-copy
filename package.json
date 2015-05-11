@@ -26,5 +26,10 @@
   "homepage": "https://github.com/goel4ever/gulp-contrib-copy#readme",
   "engines": {
     "node": ">= 0.9"
+  },
+  "devDependencies": {
+    "fs": "0.0.2",
+    "gulp-util": "^3.0.4",
+    "through2": "^0.6.5"
   }
 }
