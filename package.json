@@ -4,6 +4,7 @@
   "description": "Gulp: Copy files from source to destination",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "npm test"
   },
   "repository": {
@@ -27,7 +28,7 @@
   "engines": {
     "node": ">= 0.9"
   },
-  "devDependencies": {
+  "dependencies": {
     "fs": "0.0.2",
     "gulp-util": "^3.0.4",
     "through2": "^0.6.5"
