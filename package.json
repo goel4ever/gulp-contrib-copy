@@ -1,0 +1,23 @@
+{
+  "name": "gulp-contrib-copy",
+  "version": "0.0.1",
+  "description": "Gulp: Copy files from source to destination",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goel4ever/gulp-contrib-copy.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin"
+  ],
+  "author": "Anshul Goel (dec.anshul@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goel4ever/gulp-contrib-copy/issues"
+  },
+  "homepage": "https://github.com/goel4ever/gulp-contrib-copy#readme"
+}
