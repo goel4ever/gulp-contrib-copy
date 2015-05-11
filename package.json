@@ -16,10 +16,13 @@
     "plugin",
     "copy"
   ],
-  "author": {
-    "name": "Anshul Goel",
-    "email": "dec.anshul@gmail.com"
-  },
+  "author": "Anshul Goel",
+  "contributors": [
+    {
+      "name": "Anshul Goel",
+      "email": "dec.anshul@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/goel4ever/gulp-contrib-copy/issues"
