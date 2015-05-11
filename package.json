@@ -12,12 +12,19 @@
   },
   "keywords": [
     "gulp",
-    "plugin"
+    "plugin",
+    "copy"
   ],
-  "author": "Anshul Goel (dec.anshul@gmail.com)",
+  "author": {
+    "name": "Anshul Goel",
+    "email": "dec.anshul@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/goel4ever/gulp-contrib-copy/issues"
   },
-  "homepage": "https://github.com/goel4ever/gulp-contrib-copy#readme"
+  "homepage": "https://github.com/goel4ever/gulp-contrib-copy#readme",
+  "engines": {
+    "node": ">= 0.9"
+  }
 }
