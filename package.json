@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/goel4ever/gulp-contrib-copy#readme",
   "engines": {
-    "node": ">= 0.9"
+    "node": ">= 0.10"
   },
   "dependencies": {
     "fs": "0.0.2",
