@@ -11,9 +11,10 @@ npm install gulp-contrib-copy --save-dev
 var copy = require('gulp-contrib-copy');
 
 gulp.task('copy', function() {
-	gulp.src('src/**/*')
-		.pipe(copy())
-	    .pipe(gulp.dest('dest/'));
+  gulp.src('src/**/*')
+    .pipe(copy())
+    .pipe(gulp.dest('dest/'));
+});
 ```
 
 ## Note
