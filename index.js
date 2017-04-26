@@ -27,7 +27,7 @@ module.exports = function( opts ) {
 
     if(options) {
       // TODO: Implement options
-      console.log('Options to be implemented')
+      // console.log('Options to be implemented')
     }
 
     callback( null, file );
