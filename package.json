@@ -1,6 +1,6 @@
 {
   "name": "gulp-contrib-copy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Gulp: Copy files from source to destination",
   "main": "index.js",
   "scripts": {
